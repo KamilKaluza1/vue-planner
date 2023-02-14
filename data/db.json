@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create banner ",
+      "details": "xd",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Response Email",
+      "details": "xd",
+      "complete": true
+    },
+    {
+      "title": "get a new job",
+      "details": "skygate",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
